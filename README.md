@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/abhinav-codealchemist/Statistical-Inference-on-Accidents-DataSet.svg)](http://hits.dwyl.io/abhinav-codealchemist/Statistical-Inference-on-Accidents-DataSet)
 # Statistical Inference on "Accidents" DataSet
 
 Statistical Inference on "Accidents" DataSet, hosted on the OpenDataBCN Website.
